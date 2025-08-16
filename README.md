@@ -4,7 +4,7 @@ Control a robotic arm with Arduino using the `robotarm.ino` sketch.
 Designed for an easy start: clear wiring, configurable pins, angle limits,
 and example motion sequences.
 
-![Hero – example setup with bins and slide](image/robotarm-hero.png)
+![Hero – example setup with bins and slide](image/robotarm-hero.jpg)
 
 <p align="center">
   <a href="#features">Features</a> •
