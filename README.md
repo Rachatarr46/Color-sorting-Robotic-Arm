@@ -1,4 +1,4 @@
-# 🤖 Arduino Robot Arm Controller
+# 🤖 Color-sorting-Robotic-Arm
 
 Control a robotic arm with Arduino using the `robotarm.ino` sketch.  
 Designed for an easy start: clear wiring, configurable pins, angle limits,
